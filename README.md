@@ -1,5 +1,3 @@
-# Effect Hook | Part 2
-
 - Persisting Application data
   - Local Storage
 - Storing values in Local Storage
